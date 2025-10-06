@@ -4,7 +4,7 @@
 - 📫 How to reach me **cpoplin05@gmail.com**
 
 - 📄 Know about my experiences [https://gardnerwebb-my.sharepoint.com/:w:/g/personal/cpoplin1_gardner-webb_edu/EeNEEQSmKn9Dkj8i6ZbqjqcBraE9KgXuSeNDTvt4ukapoA?e=yXijZ8](https://gardnerwebb-my.sharepoint.com/:w:/g/personal/cpoplin1_gardner-webb_edu/EeNEEQSmKn9Dkj8i6ZbqjqcBraE9KgXuSeNDTvt4ukapoA?e=yXijZ8)
-- Here's some of my best projects:
+# Here's some of my best projects:
 - University backend: https://github.com/cpoplin/university-backend
 - Python automation (one of a few): https://github.com/cpoplin/1440pAutoSaddle
 - Binary Operations: https://github.com/cpoplin/binary-operations-project
